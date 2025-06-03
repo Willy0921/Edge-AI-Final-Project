@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch model checkpoints
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# VS Code settings
+.vscode/
+
+# Local environment variables
+.env
+.env.*

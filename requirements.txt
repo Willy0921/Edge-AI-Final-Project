@@ -1,0 +1,8 @@
+huggingface-hub[cli]==0.32.2
+transformers==4.51.1
+datasets==3.5.0
+uv==0.7.8
+vllm==0.8.5.post1
+accelerate==1.7.0
+optimum==1.25.3
+auto_gptq==0.7.1
