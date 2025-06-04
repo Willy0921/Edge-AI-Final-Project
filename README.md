@@ -3,7 +3,7 @@ Small Language Model acceleration
 
 ## 整體架構
 `2025/06/03` update: Use the distilled Llama3.2 1B model as the test model.
-![image](https://github.com/user-attachments/assets/c8693d04-af82-4486-ab38-639ac0162dbc)
+![image](https://github.com/user-attachments/assets/759de7f1-f635-4557-9c23-627bc6721bd2)
 
 ## 1. 安裝並啟動miniconda
 ```bash
