@@ -1,6 +1,8 @@
 ## Edge AI Final Project
 Small Language Model acceleration
 
+[Project Report](https://hackmd.io/@q22fkkZbT5eThY9AoGgt_g/H1L2r3Hfee)
+
 ## 整體架構
 `2025/06/03` update: Use the distilled Llama3.2 1B model as the test model.
 ![image](https://github.com/user-attachments/assets/759de7f1-f635-4557-9c23-627bc6721bd2)
